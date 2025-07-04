@@ -1,0 +1,32 @@
+System Information
+Memory Management Information
+Built-In Informatiom
+Important Dec[n]
+
+#include<iostream>
+
+Symbolic Constant Declaration
+Pre-Processor Declaration
+Function Prototype Declaration
+namespace Declaration
+main Declaration
+
+int main(){
+    cout<<"Hello";
+    return 0;
+}
+
+System Information / Pre-Processor Declaration: Where #include directives are placed to load standard libraries.
+
+Symbolic Constant Declaration: Used for defining constants using #define or const.
+
+Namespace Declaration: using namespace std; allows use of cout without prefixing std::.
+
+Function Prototype Declaration: Tells the compiler about functions used later.
+
+Main Declaration: The entry point of every C++ program.
+
+Memory Management / Built-In Information: Instructions inside main() like cout, memory allocation, etc.
+
+Important Declaration (Dec[n]): Statements like return 0; that signal program termination.
+
