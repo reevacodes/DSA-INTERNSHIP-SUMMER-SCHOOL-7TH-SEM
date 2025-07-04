@@ -1,0 +1,19 @@
+// WAYS TO DECLARE METHOD IN CPP
+// 1. INSIDE THE CLASS
+// 2. OUTSIDE THE CLASS
+
+CONSTRUCTOR
+// Constructor is special method/member fn which is automatically invoked or called when object of a class is created. 
+// Key points 
+// 1. Constructor_name == Class_name
+// 2. Automatically invoked at a time of object creation
+// 3. Memory will be allocated only once -> at a time of object creation
+// 4. No return type
+// 5. wrt parameterized constructor, we can pass the arguments at a time of object creation with the help of parenthesis
+// 6. should always be public
+
+Types of Constructor
+1. Default-> automatically invoked or implicitally passed by the language processor when we donot create any constructor.
+2. Non-parameterized-> doesnot have any parameters
+3. Parameterized-> have parameters
+4. Copy-> 
